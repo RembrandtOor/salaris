@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: #00000033;
+}
+
+header h1 {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+table {
+    margin-top: 25px;
+    margin-left: 50px;
+}
+
+td {
+    width: 100px;
+}
+
+input {
+    width: inherit;
+    margin-right: 9px;
+}
+
+form {
+    word-spacing: 0px;
+}
+
+.headerlogo {
+    height: 50px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
